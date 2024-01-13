@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLLITE-Database-Test</string>
+    <string name="imgView">Employee Image</string>
+    <string name="txtId">Employee ID</string>
+    <string name="txtName">Employee Name</string>
+    <string name="txtSalary">Employee Salary</string>
+    <string name="btnAdd">ADD</string>
+    <string name="btnView">VIEW</string>
+    <string name="btnDelete">DELETE</string>
+</resources>
